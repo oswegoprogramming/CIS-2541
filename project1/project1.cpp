@@ -24,6 +24,8 @@ int main()
 
 	// Display the pay.
 	cout << "You have earned $" << pay << endl;
+
+	cout << "So how about that!" << endl << endl;
 	
 	return 0;
 }
