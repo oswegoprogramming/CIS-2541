@@ -26,6 +26,8 @@ int main()
 	cout << "You have earned $" << pay << endl;
 
 	cout << "So how about that!" << endl << endl;
+
+	cout << "Now go buy some donuts..." << endl;
 	
 	return 0;
 }
